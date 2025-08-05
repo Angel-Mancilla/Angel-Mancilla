@@ -1,9 +1,17 @@
-<h1 align="center">!Hola!👋, Soy Angel Mancilla</h1>
-<h2>Sobre mi / About Me</h2>
-<br>
-🌱 Egresado de Ingeniería en Sistemas Computacionales, enfocado en el desarrollo backend. Actualmente Aprendiendo Laravel, PHP, Vue 3 y bases de datos relacionales.
-<br>
+<h1 align="center">¡Hola! 👋 Soy Angel Mancilla</h1>
 
+<h2>Sobre mí / About Me</h2>
+<br>
+🚀 Soy egresado de la carrera de Ingeniería en Sistemas Computacionales, enfocado en el desarrollo backend.  
+Actualmente trabajo con <strong>Laravel</strong>, <strong>PHP</strong> y <strong>Vue 3</strong>, pero estoy abierto a aprender nuevas tecnologías.  
+Estoy comprometido con el aprendizaje constante y la mejora continua para crecer como desarrollador cada día.
+<br><br>
+
+<h2>🧠 Filosofía personal</h2>
+<br>
+Creo que nada sucede por error, y que todo aquello que uno se propone puede lograrse mediante disciplina, constancia y práctica.  
+Me esfuerzo por ser un desarrollador comprometido, con mentalidad crítica y apertura para aprender de mis errores.
+<br>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
