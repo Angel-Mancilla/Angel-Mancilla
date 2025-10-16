@@ -3,7 +3,7 @@
 <h2>Sobre mí / About Me</h2>
 <br>
 🚀 Soy egresado de la carrera de Ingeniería en Sistemas Computacionales, enfocado en el desarrollo backend.  
-Actualmente trabajo con <strong>Laravel</strong>, <strong>PHP</strong> y <strong>Vue 3</strong>, pero estoy abierto a aprender nuevas tecnologías.  
+Actualmente trabajo con <strong>Laravel</strong>, <strong>PHP</strong> y <strong>Vue 3</strong>, pero estoy abierto a aprender nuevas tecnologías.
 Estoy comprometido con el aprendizaje constante y la mejora continua para crecer como desarrollador cada día.
 <br><br>
 
