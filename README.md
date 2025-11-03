@@ -55,7 +55,7 @@ Estoy comprometido con el aprendizaje constante y la mejora continua para crecer
 <h3 align="center">Connect with me:</h3>
 <p align="center" style="display: flex; justify-content: center; gap: 10px;">
 
-  <a href="www.linkedin.com/in/angel-mancilla-569909325" target="_blank">
+  <a href="https://www.linkedin.com/in/angel-mancilla-569909325" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
          alt="LinkedIn de Ángel Mancilla" height="30" width="40" />
   </a>
