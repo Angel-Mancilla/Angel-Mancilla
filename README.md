@@ -11,34 +11,32 @@ Creo en la disciplina, el aprendizaje constante y las buenas prácticas como bas
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
 
-
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="90" height="90"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/>
   </a>
 
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="90" height="90"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
   </a>
 
-
   <a href="https://laravel.com" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" alt="laravel" width="90" height="90"/>
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" alt="laravel" width="60" height="60"/>
   </a>
 
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/vue.js/4FC08D" alt="vue.js" width="90" height="90"/>
+  <img src="https://cdn.simpleicons.org/vue.js/4FC08D" alt="vue.js" width="60" height="60"/>
   </a>
 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="90" height="90"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/>
   </a>
 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="90" height="90"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
   </a>
 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="90" height="90"/>
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/>
   </a>
 </p>
 <br>
