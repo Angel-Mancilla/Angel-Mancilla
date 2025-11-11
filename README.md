@@ -3,14 +3,14 @@
 <h2>Sobre mí / About Me</h2>
 <br>
 🚀 Soy egresado de Ingeniería en Sistemas Computacionales, enfocado en el desarrollo backend.  
-Trabajo con <strong>Laravel</strong>, <strong>PHP</strong> y <strong>Vue 3</strong>, construyendo aplicaciones sólidas y bien estructuradas.  
+Trabajo con <strong>Laravel</strong>, <strong>PHP</strong> y estoy aprendiendo <strong>Vue 3</strong>, construyendo aplicaciones sólidas y bien estructuradas.  
 Creo en la disciplina, el aprendizaje constante y las buenas prácticas como base para crecer y aportar soluciones reales mediante la tecnología.
 <br><br>
 
 <ul>
   <li>👯 Colaboro en proyectos personales con <strong>Laravel</strong> y <strong>Vue 3</strong><br></li>
   <li>🌱 En este momento profundizo en <strong>arquitectura de software</strong>, <strong>principios SOLID</strong> , <strong>APIs REST</strong> y patrones como <strong>Service & Repository</strong></li>
-  <li>💬 Puedo hablar de <strong>Laravel, PHP, Vue 3 </strong> y cómo mantener código limpio y escalable</li>
+  <li>💬 Puedo hablar de <strong>Laravel, PHP</strong> y cómo mantener código limpio y escalable</li>
   <li>📫 Contáctame en <strong>angeldft27@gmail.com</strong></li>
   <li>🧠 Dato curioso: A veces sueño con php artisan serve</li>
 </ul>
