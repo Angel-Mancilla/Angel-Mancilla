@@ -11,7 +11,7 @@ Creo en la disciplina, el aprendizaje constante y las buenas prácticas como bas
   <li>👯 Colaboro en proyectos personales con <strong>Laravel</strong> y <strong>Vue 3</strong><br></li>
   <li>🌱 En este momento profundizo en <strong>arquitectura de software</strong>, <strong>principios SOLID</strong> , <strong>APIs REST</strong> y patrones como <strong>Service & Repository</strong></li>
   <li>💬 Puedo hablar de <strong>Laravel, PHP</strong> y cómo mantener código limpio y escalable</li>
-  <li>📫 Contáctame en <strong>angeldft27@gmail.com</strong></li>
+  <li>📫 Contáctame en <strong><a href="mailto:angeldft27@gmail.com">angeldft27@gmail.com</a></strong></li>
   <li>🧠 Dato curioso: A veces sueño con php artisan serve</li>
 </ul>
 
